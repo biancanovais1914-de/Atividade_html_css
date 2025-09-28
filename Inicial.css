@@ -1,8 +1,8 @@
 /* Estilo para o corpo da página */
 body {
     font-family: Arial, sans-serif;
-    background-color: #e905d6;
-    background-image: url(https://sdmntprwestus3.oaiusercontent.com/files/00000000-f268-61fd-b010-e8858c1722c0/raw?se=2025-09-22T21%3A53%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=c114768d-b6a2-5662-9c56-0a9a98f107a7&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-22T14%3A20%3A00Z&ske=2025-09-23T14%3A20%3A00Z&sks=b&skv=2024-08-04&sig=FTTN7bnPOWxiIoHr7gnm7XilT7VVWaF7EOQV/g9zRsE%3D);
+    background-color: #23dbe8;
+    background-image: url(https://assets-persist.lovart.ai/agent_images/0d1dba83-7c6b-4ea0-9361-40630f66c05e.jpg);
     background-size: cover;
     margin: 0;
     padding: 20px;
@@ -27,20 +27,20 @@ body {
     width: 250px;
     height: 300px;
     border-radius: 50%; 
-    border: 3px solid #ff9900;
+    border: 3px solid #29abb9;
     object-fit: cover;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
 }
 
 /* Estilos para os títulos */
 .personagem-nome {
-    color: #ff9900;
+    color: #28a9c0;
     font-size: 2.5em;
     margin: 10px 0 5px;
 }
 
 .personagem-titulo {
-    color: #555;
+    color: #000000;
     font-size: 1.2em;
     font-style: italic;
     margin: 0;
